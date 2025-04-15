@@ -72,8 +72,9 @@ The server provides four powerful tools:
 
 ## 📸 Examples
 
-![Claude working with DOCX](111.png)
-
+![Claude working with DOCX](first.png)
+![Claude DOCX - allowing tools](second.png)
+![Claude successfully created DOCX](third.png)
 ---
 
 Built with ❤️ to enhance business document workflows
