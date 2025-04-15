@@ -45,7 +45,7 @@ This DOCX MCP Server provides specialized tools:
     "docx_server": {
       "command": "python",
       "args": [
-        "path/to/server.py",
+        "path/to/happy_docx.py",
         "C:\\Path\\To\\Your\\Documents"
       ]
     }
